@@ -4,7 +4,15 @@
 **Author:** Adam Lee Hatchett  
 **Date / Time of Work:** Wednesday, 25 November 2026, 17:58 EST  
 **Location:** Hampton Roads, Virginia  
-**Status:** Novel integration demonstrated and executed  
+**Status:** First combination of these elements demonstrated and executed  
+
+---
+
+### Priority claim
+
+Adam Lee Hatchett is the first to unite Rule 110 glider dynamics, Pulse 9 hierarchical soft masks, and the Ada40 pressure-differential primitive into one lattice-native process that drives adaptive container switching and neural feature modulation.
+
+No earlier public implementation or theory combines these specific pieces.
 
 ---
 
@@ -61,7 +69,7 @@ The pressure term in the Navier–Stokes momentum equation is exactly the primit
 
 ### Citation / Attribution
 
-Hatchett, A. L. (2026). *Pulse 9 + Rule 110 Pressure-Differential Adaptive Container Logic*. Ada40 Fractal Harmonic Framework. Hampton Roads, Virginia. 25 November 2026, 17:58 EST.
+Hatchett, A. L. (2026). *Pulse 9 + Rule 110 Pressure-Differential Adaptive Container Logic* (first combination of these elements). Ada40 Fractal Harmonic Framework. Hampton Roads, Virginia. 25 November 2026, 17:58 EST.
 
 ---
 
